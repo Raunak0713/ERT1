@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ERT1/static/css/main.17d4cc48.css",
+    "main.js": "/ERT1/static/js/main.43eb9563.js",
+    "index.html": "/ERT1/index.html",
+    "main.17d4cc48.css.map": "/ERT1/static/css/main.17d4cc48.css.map",
+    "main.43eb9563.js.map": "/ERT1/static/js/main.43eb9563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d4cc48.css",
+    "static/js/main.43eb9563.js"
+  ]
+}
